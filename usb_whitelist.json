@@ -1,0 +1,27 @@
+[
+    {
+        "vid": "046D",
+        "pid": "C043",
+        "name": "USB-устройство ввода"
+    },
+    {
+        "vid": "13D3",
+        "pid": "56A2",
+        "name": "USB2.0 HD UVC WebCam"
+    },
+    {
+        "vid": "13D3",
+        "pid": "3548",
+        "name": "Realtek Bluetooth Adapter"
+    },
+    {
+        "vid": "13D3",
+        "pid": "3548",
+        "name": "Realtek Bluetooth Adapter"
+    },
+    {
+        "vid": "13FE",
+        "pid": "4100",
+        "name": "Запоминающее устройство для USB"
+    }
+]
